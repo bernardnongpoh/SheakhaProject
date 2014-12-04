@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Mary's College of Teacher Education",
+               "short_name" : "St. Mary's College of Teacher Education",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Laitumkhrah",
+               "short_name" : "Laitumkhrah",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shillong",
+               "short_name" : "Shillong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Khasi Hills",
+               "short_name" : "East Khasi Hills",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Meghalaya",
+               "short_name" : "ML",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "793003",
+               "short_name" : "793003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St. Mary's College of Teacher Education, Laitumkhrah, Shillong, Meghalaya 793003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5711263,
+               "lng" : 91.891706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.5724752802915,
+                  "lng" : 91.89305498029151
+               },
+               "southwest" : {
+                  "lat" : 25.5697773197085,
+                  "lng" : 91.89035701970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

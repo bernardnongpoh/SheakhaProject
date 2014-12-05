@@ -4,23 +4,12 @@
  * and open the template in the editor.
  */
 
-package org.smcs.parse;
+package test;
 
 /**
  *
  * @author cs12shea8
  */
-public class Status {
-    private String status;
-
-    public String getStatus() {
-        return status;
-    }
-
-    public void setStatus(String status) {
-        this.status = status;
-    }
-    
-    
+public class testdata {
     
 }

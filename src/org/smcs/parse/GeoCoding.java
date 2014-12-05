@@ -6,6 +6,8 @@
 
 package org.smcs.parse;
 
+import org.smcs.model.Document;
+import org.smcs.model.Location;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -23,6 +25,7 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.UnknownHostException;
+import org.smcs.utility.Utility;
 
 /**
  *

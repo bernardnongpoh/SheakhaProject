@@ -6,6 +6,8 @@
 
 package org.smcs.parse;
 
+import org.smcs.model.Geometry;
+
 /**
  *
  * @author cs12shea8

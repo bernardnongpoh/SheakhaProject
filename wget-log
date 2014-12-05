@@ -1,0 +1,8 @@
+--2014-12-05 14:00:30--  http://www.google.com/
+Resolving www.google.com (www.google.com)... 74.125.236.179, 74.125.236.176, 74.125.236.177, ...
+Connecting to www.google.com (www.google.com)|74.125.236.179|:80... failed: Connection timed out.
+Connecting to www.google.com (www.google.com)|74.125.236.176|:80... failed: Connection timed out.
+Connecting to www.google.com (www.google.com)|74.125.236.177|:80... failed: Connection timed out.
+Connecting to www.google.com (www.google.com)|74.125.236.180|:80... failed: Connection timed out.
+Connecting to www.google.com (www.google.com)|74.125.236.178|:80... failed: Connection timed out.
+Connecting to www.google.com (www.google.com)|2404:6800:4007:802::1014|:80... failed: Network is unreachable.

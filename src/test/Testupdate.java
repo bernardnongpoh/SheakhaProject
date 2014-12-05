@@ -15,9 +15,9 @@ import com.mongodb.MongoClient;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.UnknownHostException;
-import org.smcs.parse.Document;
-import org.smcs.parse.Location;
-import org.smcs.parse.Utility;
+import org.smcs.model.Document;
+import org.smcs.model.Location;
+import org.smcs.utility.Utility;
 
 /**
  *

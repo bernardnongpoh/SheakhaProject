@@ -21,8 +21,8 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
-import org.smcs.parse.Document;
-import org.smcs.parse.Location;
+import org.smcs.model.Document;
+import org.smcs.model.Location;
 import org.smcs.parse.Utility;
 
 /**
